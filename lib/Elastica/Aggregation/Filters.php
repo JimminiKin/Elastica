@@ -6,7 +6,7 @@ namespace Elastica\Aggregation;
 use Elastica\Filter\AbstractFilter;
 
 /**
- * Class Filter
+ * Class Filters
  * @package Elastica\Aggregation
  * @link http://www.elasticsearch.org/guide/en/elasticsearch/reference/master/search-aggregations-bucket-filters-aggregation.html
  */
